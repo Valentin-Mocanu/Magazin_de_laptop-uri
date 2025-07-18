@@ -1,0 +1,4 @@
+Laptop,Aspire 5,Acer,2800.000000,16,i5-1240P,512
+Laptop,HP Pavilion 15,HP,3700.000000,16,i5-1135G7,512
+Laptop,MSI Modern 14,MSI,3300.000000,8,i5-1235U,512
+Laptop,Huawei MateBook D15,Huawei,2900.000000,8,Ryzen 5 5500U,512

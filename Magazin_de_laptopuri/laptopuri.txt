@@ -1,0 +1,8 @@
+Laptop,ThinkPad X1,Lenovo,4500,16,i7-1165G7,512
+Laptop,Aspire 5,Acer,2800,16,i5-1240P,512
+Laptop,MacBook Air,Apple,6000,8,M2,256
+Laptop,ROG Strix,Asus,5200,32,Ryzen 9,1024
+Laptop,HP Pavilion 15,HP,3700,16,i5-1135G7,512
+Laptop,MSI Modern 14,MSI,3300,8,i5-1235U,512
+Laptop,Dell XPS 13,Dell,6800,16,i7-1360P,1000
+Laptop,Huawei MateBook D15,Huawei,2900,8,Ryzen 5 5500U,512
